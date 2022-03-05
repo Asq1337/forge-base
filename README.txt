@@ -6,5 +6,9 @@
 5. specify the path to your folder with forge base
 6. write this commands -> gradlew genEclipseRuns(for eclipse users) and this -> gradlew eclipse(for eclipse users) 
 
-#yea
+**use**
+1. jdk 8
+2. jre
+
+# yea
 //these commands should be entered one at a time so that there are no errors.
