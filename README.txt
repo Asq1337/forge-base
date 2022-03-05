@@ -1,4 +1,4 @@
-#instructions
+# instructions
 1. download forge base
 2. create a new folder
 3. unpack the contents of zip archive in your folder
