@@ -1,4 +1,4 @@
-# instructions
+**instructions**
 1. download forge base
 2. create a new folder
 3. unpack the contents of zip archive in your folder
@@ -7,8 +7,7 @@
 6. write this commands -> gradlew genEclipseRuns(for eclipse users) and this -> gradlew eclipse(for eclipse users) 
 
 **use**
-1. jdk 8
-2. jre
+1. jdk 
 
-# yea
+**yea**
 //these commands should be entered one at a time so that there are no errors.
