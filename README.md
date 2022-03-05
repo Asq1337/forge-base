@@ -12,4 +12,4 @@
 
 **yea**
 
-//these commands should be entered one at a time so that there are no errors.
+//good luck!
